@@ -1,4 +1,4 @@
-
+#Given a number, my program will pick all the non zero digits and will multiply them. This will repeat until the result is less than 10.
 
 class calc:
     allResults = []
